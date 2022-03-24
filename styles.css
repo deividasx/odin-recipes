@@ -1,0 +1,29 @@
+img {
+    height: auto;
+    width: 300px;
+}
+
+body {
+    font-family: helvetica, "Times New Roman", arial, Verdana;
+    color: hsl(315, 100%, 41%);
+    text-align: left;
+    list-style-position: inside;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    color: black;
+}
+
+p {
+    color:black;
+}
+
+a {
+    font-weight: 900;
+}
+
+.haha {
+    color: hsl(108, 100%, 41%)
+}
